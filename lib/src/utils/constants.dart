@@ -2,7 +2,7 @@
 /// Base ChatGPT Url
 const kURL = "https://api.openai.com/v1/";
 
-const kCompletion = 'completions';
+const kCompletion = 'chat/completions';
 ///get list model
 const kModelList = 'models';
 ///get list engine
